@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Database>
+    <Faculty ID="1" NAME="Old CSC">
+        <Department ID="1" NAME="The Department of Mathematical Informatics">
+            <Person
+                    ID="1"
+                    FIRSTNAME="Anatoly"
+                    LASTNAME="Anisimov"
+                    PATRONYM="V."
+                    POSITION="Head of the Department of Mathematical Informatics, Dean of the Cybernetics Faculty"
+                    SALARY="200000"
+                    TERM="20">
+            </Person>
+            <Person
+                    ID="2"
+                    FIRSTNAME="Igor"
+                    LASTNAME="Zavadsky"
+                    PATRONYM="O."
+                    POSITION="Associate Professor"
+                    SALARY="30000"
+                    TERM="15">
+            </Person>
+        </Department>
+        <Department ID="2" NAME="The Department of Theoretical Cybernetics">
+            <Person
+                    ID="1"
+                    FIRSTNAME="Iurii"
+                    LASTNAME="Krak"
+                    PATRONYM="V."
+                    POSITION="Head of the Department of Theoretical Cybernetics"
+                    SALARY="60000"
+                    TERM="18">
+            </Person>
+            <Person
+                    ID="2"
+                    FIRSTNAME="Rostyslav"
+                    LASTNAME="Trokhymchuk"
+                    PATRONYM="M."
+                    POSITION="Associate Professor"
+                    SALARY="15000"
+                    TERM="10">
+            </Person>
+            <Person
+                    ID="3"
+                    FIRSTNAME="Yurii"
+                    LASTNAME="Koval"
+                    PATRONYM="V."
+                    POSITION="Assistant"
+                    SALARY="6000"
+                    TERM="15">
+            </Person>
+            <Person
+                    ID="4"
+                    FIRSTNAME="Andrii"
+                    LASTNAME="Stavrovskyi"
+                    PATRONYM="B."
+                    POSITION="Associate Professor"
+                    SALARY="70000"
+                    TERM="16">
+            </Person>
+            <Person
+                    ID="5"
+                    FIRSTNAME="Tetiana"
+                    LASTNAME="Karnaukh"
+                    PATRONYM="O."
+                    POSITION="Associate Professor"
+                    SALARY="20000"
+                    TERM="10">
+            </Person>
+            <Person
+                    ID="6"
+                    FIRSTNAME="Sergii"
+                    LASTNAME="Kondratyuk"
+                    PATRONYM="S."
+                    POSITION="Assistant"
+                    SALARY="5000"
+                    TERM="5">
+            </Person>
+            <Person
+                    ID="7"
+                    FIRSTNAME="Mykola"
+                    LASTNAME="Yefremov"
+                    PATRONYM="S."
+                    POSITION="Assistant"
+                    SALARY="5000"
+                    TERM="5">
+            </Person>
+        </Department>
+        <Department ID="3" NAME="The Department of Computational Mathematics">
+            <Person
+                    ID="1"
+                    FIRSTNAME="Oleksander"
+                    LASTNAME="Molodtsov"
+                    PATRONYM="I."
+                    POSITION="Associate Professor"
+                    SALARY="60000"
+                    TERM="20">
+            </Person>
+            <Person
+                    ID="2"
+                    FIRSTNAME="Andryi"
+                    LASTNAME="Anikushin"
+                    PATRONYM="V."
+                    POSITION="Assistant Professor"
+                    SALARY="40000"
+                    TERM="20">
+            </Person>
+            <Person
+                    ID="3"
+                    FIRSTNAME="Sergiy"
+                    LASTNAME="Denisov"
+                    PATRONYM="V."
+                    POSITION="Assistant Professor"
+                    SALARY="30000"
+                    TERM="10">
+            </Person>
+            <Person
+                    ID="4"
+                    FIRSTNAME="Bogdan"
+                    LASTNAME="Rublyov"
+                    PATRONYM="V."
+                    POSITION="Professor"
+                    SALARY="70000"
+                    TERM="23">
+            </Person>
+            <Person
+                    ID="5"
+                    FIRSTNAME="Dmitry"
+                    LASTNAME="Nomirovskii"
+                    PATRONYM="A."
+                    POSITION="Professor"
+                    SALARY="70000"
+                    TERM="22">
+            </Person>
+            <Person
+                    ID="6"
+                    FIRSTNAME="Larisa"
+                    LASTNAME="Adjubey"
+                    PATRONYM="T."
+                    POSITION="Associate Professor"
+                    SALARY="50000"
+                    TERM="21">
+            </Person>
+        </Department>
+        <Department ID="4" NAME="The Department of Complex Systems Modeling">
+            <Person
+                    ID="1"
+                    FIRSTNAME="Volodymyr"
+                    LASTNAME="Pichkur"
+                    PATRONYM="V."
+                    POSITION="Associate Professor"
+                    SALARY="40000"
+                    TERM="15">
+            </Person>
+        </Department>
+        <Department ID="5" NAME="The Department of Theory and Technology of Programming">
+            <Person
+                    ID="1"
+                    FIRSTNAME="Liudmila"
+                    LASTNAME="Omelchuk"
+                    PATRONYM="L."
+                    POSITION="Associate Professor"
+                    SALARY="50000"
+                    TERM="19">
+            </Person>
+            <Person
+                    ID="2"
+                    FIRSTNAME="Nataliia"
+                    LASTNAME="Rusina"
+                    PATRONYM="H."
+                    POSITION="Assistant"
+                    SALARY="15000"
+                    TERM="12">
+            </Person>
+        </Department>
+    </Faculty>
+    <Faculty ID="2" NAME="CSC">
+        <Department ID="1" NAME="The Department of Operations Research">
+            <Person
+                    ID="1"
+                    FIRSTNAME="Ivan"
+                    LASTNAME="Matsak"
+                    PATRONYM="K."
+                    POSITION="Professor"
+                    SALARY="30000"
+                    TERM="16">
+            </Person>
+            <Person
+                    ID="2"
+                    FIRSTNAME="Danylo"
+                    LASTNAME="Proskurin"
+                    PATRONYM="P."
+                    POSITION="Associate Professor"
+                    SALARY="29000"
+                    TERM="16">
+            </Person>
+            <Person
+                    ID="3"
+                    FIRSTNAME="Roman"
+                    LASTNAME="Yakymiv"
+                    PATRONYM="Ya."
+                    POSITION="Associate Professor"
+                    SALARY="17000"
+                    TERM="10">
+            </Person>
+            <Person
+                    ID="4"
+                    FIRSTNAME="Vyacheslav"
+                    LASTNAME="Rabanovich"
+                    PATRONYM="I."
+                    POSITION="Associate Professor"
+                    SALARY="22000"
+                    TERM="18">
+            </Person>
+        </Department>
+        <Department ID="2" NAME="The Department of Applied Statistics">
+            <Person
+                    ID="1"
+                    FIRSTNAME="Eugene"
+                    LASTNAME="Lebedev"
+                    PATRONYM="A."
+                    POSITION="Head of the Department of Applied Statistics"
+                    SALARY="50000"
+                    TERM="24">
+            </Person>
+            <Person
+                    ID="2"
+                    FIRSTNAME="Irina"
+                    LASTNAME="Rozora"
+                    PATRONYM="V."
+                    POSITION="Associate Professor"
+                    SALARY="17000"
+                    TERM="10">
+            </Person>
+            <Person
+                    ID="3"
+                    FIRSTNAME="Igor"
+                    LASTNAME="Makushenko"
+                    PATRONYM="A."
+                    POSITION="Assistant Professor"
+                    SALARY="18000"
+                    TERM="11">
+            </Person>
+            <Person
+                    ID="4"
+                    FIRSTNAME="Anna"
+                    LASTNAME="Livinska"
+                    PATRONYM="V."
+                    POSITION="Assistant Professor"
+                    SALARY="17000"
+                    TERM="13">
+            </Person>
+        </Department>
+    </Faculty>
+    <Faculty ID="3" NAME="Young CSC">
+        <Department ID="1" NAME="The Department of Systems Analysis and Decision Making Theory">
+            <Person
+                    ID="1"
+                    FIRSTNAME="Mykhailo"
+                    LASTNAME="Makhno"
+                    PATRONYM="F."
+                    POSITION="Assistant Professor"
+                    SALARY="15000"
+                    TERM="5">
+            </Person>
+        </Department>
+        <Department ID="2" NAME="The Department of Intelligent Software Systems">
+            <Person
+                    ID="1"
+                    FIRSTNAME="Anatolii"
+                    LASTNAME="Petrushenko"
+                    PATRONYM="M."
+                    POSITION="Associate Professor"
+                    SALARY="15000"
+                    TERM="14">
+            </Person>
+            <Person
+                    ID="2"
+                    FIRSTNAME="Volodymyr"
+                    LASTNAME="Shevchenko"
+                    PATRONYM="P."
+                    POSITION="Associate Professor"
+                    SALARY="12000"
+                    TERM="4">
+            </Person>
+        </Department>
+    </Faculty>
+</Database>
